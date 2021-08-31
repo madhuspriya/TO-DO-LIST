@@ -1,0 +1,20 @@
+*{
+	margin: 2;
+	padding: 2;
+	box-sizing: border-box;
+}
+body{
+	background-image: linear-gradient(120deg, #f6d365, #fda085);
+	color: black;
+	font-family: "poppins", sans-serif;
+	min-height: 100vh;
+}
+.center {
+text-align: center;
+}
+// css example
+span {
+  content: "\00A9";
+}
+
+
